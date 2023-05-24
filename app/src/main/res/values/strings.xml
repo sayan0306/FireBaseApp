@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FireBaseApp</string>
+    <string name="enter_email_id">Enter email id</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login">Already registered? Login</string>
+    <string name="vendor_book">Vendor Book</string>
+    <string name="register1">Register</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_age">Enter age</string>
+    <string name="add">Add</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="show_values">Show Values</string>
+</resources>
